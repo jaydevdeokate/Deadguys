@@ -51,7 +51,7 @@ Survive the apocalypse by throwing dustbins at incoming zombies inside your term
 
 2. Download the game:
    ```bash
-   curl -LO https://raw.githubusercontent.com/jaydevdeokate/Deadguys/master/zombie.sh
+   curl -LO https://raw.githubusercontent.com/A220HZ/Deadguys/master/zombie.sh
    chmod +x zombie.sh
    ```
 
@@ -94,7 +94,7 @@ Survive the apocalypse by throwing dustbins at incoming zombies inside your term
 
 ## 👑 Credits
 
-Made with focus and dustbins by [@jaydevdeokate](https://github.com/jaydevdeokate)
+Made with focus and dustbins by [@jaydevdeokate](https://github.com/A220HZ)
 
 ---
 
